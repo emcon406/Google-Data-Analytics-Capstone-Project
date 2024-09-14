@@ -33,9 +33,10 @@
 ### 5) Share
 - Create effective data visualizations: prepare data visualizations supporting the trends found using R studio and Tableau.
 - Average Duration vs. Weekday [Rplot.pdf](https://github.com/user-attachments/files/17000176/Rplot.pdf)
-- Number of Rides vs. Weekday [# of rides.pdf](file:///C:/Users/TNO/Downloads/%23%20of%20rides.pdf)
+- Number of Rides vs. Weekday [# of rides.pdf](https://github.com/user-attachments/files/17003214/of.rides.pdf)
 - Tableau Bike Share Visualizations [here](https://public.tableau.com/views/CapstoneVisualizations_17262700914300/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### 6) Act
 - **Recommendations**
+- 
  
