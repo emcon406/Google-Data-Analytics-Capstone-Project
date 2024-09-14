@@ -33,19 +33,9 @@
 ### 5) Share
 - Create effective data visualizations: prepare data visualizations supporting the trends found using R studio and Tableau.
 - Average Duration vs. Weekday [Rplot.pdf](https://github.com/user-attachments/files/17000176/Rplot.pdf)
+- Number of Rides vs. Weekday [# of rides.pdf](file:///C:/Users/TNO/Downloads/%23%20of%20rides.pdf)
 - Tableau Bike Share Visualizations [here](https://public.tableau.com/views/CapstoneVisualizations_17262700914300/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### 6) Act
-- **Conclusions/Insights** gained from the analysis - 
-  - Casual riders have less rides as compared to members but have higher average ride lengths.
-  - Classic bike is the most preferred bike, followed by electric bike.
-  - Casual riders prefer to ride on Weekends and around 5 PM in the evening.
-  - The influx of casual riders is more in third quarter, which shows most of the casual riders are tourists/visitors.
-  - The most popular station have more than twice the rides started from it as compared to the second most popular one.
-  
 - **Recommendations**
-  - The best time to launch the new marketing campaign are between 15:00 to 19:00, Weekends and Holidays, in the month of June to September. 
-  - The promotion should be focused on Classic Bike. 
-  - A targeted strategy at most popular station will reach the maximum number of Casual riders.
-  - Introduce 2-day or weekly passes to attract more casual riders.
-  - Health benefits of bike riding should be included in promotion.
+ 
