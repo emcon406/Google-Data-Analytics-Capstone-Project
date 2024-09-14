@@ -38,5 +38,9 @@
 
 ### 6) Act
 - **Recommendations**
-- 
+  - Advertising a promtion of any kind to entice casual riders to transition into annual mambers, you will want to advertise at the most popular starting stations, or ending stations, for casual members.
+  - Advertising on Sundays will be your best effort since the highest traffic of casual riders is on Sundays.
+  - You can include health benefits of riding bikes into your advertising to entice further.
+  - Potentially adding a dicount for a certain distance into their "new" membership, or a discount for a certain number of rides.
+  - You could run a promotion such as "First three rides free if you switch to an annual member, or " First three rides over x amount of distance free". 
  
